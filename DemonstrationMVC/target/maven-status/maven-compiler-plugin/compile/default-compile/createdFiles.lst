@@ -1,0 +1,3 @@
+com\mvc\configuration\SessionFactory.class
+com\mvc\configuration\ConfigurationFront.class
+com\mvc\service\ServiceTest.class
