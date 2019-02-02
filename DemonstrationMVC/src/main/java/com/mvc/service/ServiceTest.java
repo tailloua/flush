@@ -32,10 +32,10 @@ public int  addTestbranch (int t1 , int t2) {
 }
 
 
-public int  addTestbranch1 (int t1 , int t2) {
+public void  addTestbranch1 (int t1 , int t2) {
 	
 	System.out.println("heeey branch");
-
+}
 	
 public int  adddepuisGit1 (int t1 , int t2) {
 	
