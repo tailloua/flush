@@ -30,4 +30,13 @@ public int  addTestbranch (int t1 , int t2) {
     return k;
 }
 
+
+public int  addTestbranch1 (int t1 , int t2) {
+	
+	System.out.println("heeey branch");
+	
+	int k = t1 + t2;
+    return k;
+}
+
 }
