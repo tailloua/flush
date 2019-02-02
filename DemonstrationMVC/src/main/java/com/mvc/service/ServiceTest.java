@@ -21,7 +21,7 @@ public int  add (int t1 , int t2) {
 }
 
 	
-public int  adddepuisGit (int t1 , int t2) {
+public int  adddepuisGit1 (int t1 , int t2) {
 	
 	System.out.println("heeey ");
 	
