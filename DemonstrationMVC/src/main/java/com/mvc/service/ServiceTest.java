@@ -20,4 +20,14 @@ public int  add (int t1 , int t2) {
     return k;
 }
 
+	
+public int  adddepuisGit (int t1 , int t2) {
+	
+	System.out.println("heeey ");
+	
+	int k = t1 + t2;
+    return k;
+}
+	
+
 }
